@@ -1,0 +1,11 @@
+# Example Decision Tree Logic
+
+> If Weather is Sunny
+	If Temperature is High → Do Not Play
+	Else → Play
+
+> If Weather is Rainy
+	Do Not Play
+
+> If Weather is Cloudy
+	Play

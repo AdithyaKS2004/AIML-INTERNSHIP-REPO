@@ -1,0 +1,19 @@
+Google Maps Navigation – Uses ML to analyze traffic patterns, past data, and user movement to predict the fastest routes.
+
+Voice Assistants (Alexa/Siri/Google Assistant) – ML processes speech recognition and natural language understanding to respond accurately to voice commands.
+
+YouTube Recommendations – ML algorithms analyze watch history and preferences to suggest personalized videos.
+
+Email Spam Filters – Machine learning identifies spam by analyzing patterns in email content and sender behavior.
+
+Face Unlock in Smartphones – ML models recognize facial features and match them with stored biometric data.
+
+Online Shopping Recommendations (Amazon/Flipkart) – ML studies browsing and purchase history to suggest relevant products.
+
+Autocorrect & Predictive Text – ML predicts words based on typing patterns and commonly used language data.
+
+Netflix/OTT Suggestions – Recommendation systems use ML to suggest movies or shows based on viewing habits.
+
+Social Media Feed Personalization – ML prioritizes posts based on user interactions, likes, and interests.
+
+Online Banking Fraud Detection – ML detects unusual transaction patterns to prevent fraudulent activities.

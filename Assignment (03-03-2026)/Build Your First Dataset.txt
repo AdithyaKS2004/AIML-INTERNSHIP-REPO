@@ -1,0 +1,15 @@
+# Building my first dataset
+
+StudyHours	Marks
+1	    	40
+2	  		45
+3	  		50
+4	  		55
+5	  		60
+6	  		65
+
+# Feature (Input): Study Hours.
+# Label (Output): Marks.
+
+# As the number of study hours increases, the marks also increase. 
+# This shows a positive linear relationship, which can be modeled using Linear Regression.

@@ -1,0 +1,19 @@
+#Spam Detection System Design
+
+Features (Inputs):
+
+	Presence of keywords (e.g., “free”, “win”, “offer”)
+	Message length
+	Number of links
+	Sender information
+
+Data Required:
+
+	Collection of labeled messages (Spam / Not Spam)
+	Historical email or SMS datasets
+
+Possible Mistakes:
+
+	False positives (important message marked as spam)
+	False negatives (spam message not detected)
+	Overfitting due to limited or biased data

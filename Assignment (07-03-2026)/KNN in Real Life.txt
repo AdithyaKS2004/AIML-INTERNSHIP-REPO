@@ -1,0 +1,6 @@
+# User A likes: Action, Thriller
+# User B likes: Action, Thriller
+# User C likes: Comedy
+
+# If a new movie is Action-based, KNN will recommend it to 
+# Users A and B because they have similar preferences.

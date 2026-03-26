@@ -1,0 +1,19 @@
+College – Student Performance Prediction
+	Input: Study hours, attendance, previous marks
+	Output: Predicted final exam score
+
+Healthcare – Disease Prediction System
+	Input: Patient symptoms, age, medical history
+	Output: Probability of a specific disease
+
+Shopping – Product Recommendation System
+	Input: User browsing history, purchase history
+	Output: Recommended products
+
+College – Attendance Prediction
+	Input: Past attendance records, schedule patterns
+	Output: Future attendance likelihood
+
+Healthcare – Appointment Demand Forecasting
+	Input: Past appointment data, season trends
+	Output: Predicted patient inflow
