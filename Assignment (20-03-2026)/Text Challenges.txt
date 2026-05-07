@@ -1,0 +1,37 @@
+"Thats gr8 brooo!!!"
+"Lol its soo funny😂😂"
+"Im doing good, Wau???"
+"He's such an idiot😡"
+"Wat r u doing???"
+"That movie was lit🔥"
+"Whyyy is this happening???"
+"Gud mrng!!! hv a nice day😊"
+"Thnx a lottt!!! 🙏"
+"Pls fix this ASAP!!!"
+"I’m sooo tiredd 😴"
+"If interested ping me"
+"She's so fine bro😍"
+"Whaaat?? You didnt get selected??
+"Broooo this is insaneeee!!!😱"
+"I dnt knw wht to say😅"
+"Plzzz reply fasttt!!!🙏"
+"Im very happieee today"
+"That was sooo coool😎🔥"
+"Yesss!!! finally done😎"
+
+Slang words (u, gr8, pls)
+Emojis (😄, 😂, 😍, 🔥)
+Repeated characters (sooo, happpiee, tiredd)
+Typographical errors (yess, whattt)
+Punctuation noise (!!!, ???)
+
+Preprocessing Techniques:-
+	Lowercasing: Convert all text to lowercase to maintain uniformity (e.g., “Hello” → “hello”)
+	Removing Punctuation: Eliminate unnecessary symbols like “!”, “?” to clean the text
+	Tokenization: Break sentences into individual words (tokens) for easier processing
+	Stopword Removal: Remove common words like “is”, “the”, “a” that do not add significant meaning
+	Slang Normalization: Convert informal words into proper form (e.g., “u” → “you”, “gr8” → “great”)
+	Removing Emojis: Eliminate emojis as they may not be useful for certain NLP tasks
+	Handling Repeated Characters: Reduce repeated letters (e.g., “sooo” → “so”)
+	Lemmatization/Stemming: Convert words to their base/root form (e.g., “interested” → “interest”)
+
